@@ -1,0 +1,58 @@
+@font-face {
+    font-family: 'poppins';
+    src: url(../font/Poppins-SemiBold.ttf);
+
+}
+*{
+    font-family: 'poppins';
+}
+body{
+    color: #ffffff;
+    font-family: 'poppins';
+    background-color: #312484;
+}
+h1{
+    text-align: center;
+}
+.botao{
+ margin-bottom: 10px;
+  margin: auto;
+  width: max-content;
+
+  display: flex;
+}
+.campos{
+    
+    margin: auto;
+  width: max-content;
+  display: flex;
+}
+#peso{
+    margin: auto;
+    margin-right: 1px;
+    width: max-content;
+    display: flex;
+    flex-direction: column;
+}
+#altura{
+    margin-left: 1px;
+    margin: auto;
+    width: max-content;
+    flex-direction: column;
+    display: flex;
+}
+button{
+    width: 120px;
+    height: 30px;
+    font-family: 'poppins';
+    background-color: #1f2666;
+    color: #ffffff;
+    border: none;
+    transition: 0.6s;
+    border-radius: 5px;
+}
+
+button:hover{
+    background-color: #2a306b;
+    transition: 0.6s;
+}

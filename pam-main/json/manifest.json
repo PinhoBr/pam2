@@ -1,0 +1,45 @@
+{
+    "nome": "projeto 02",
+    "short_name": "PJ02",
+    "start_url": "./",
+    "display": "standalone",
+    "backgorund_color": "#ffffff",
+    "theme_color": "#483d8b",
+    "icons":    [
+        {
+            "src": "../icons/broom.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {   
+            "src": "../icons/broom256.png",
+            "sizes": "256x256",
+            "type": "image/png"  
+        },
+        {   
+            "src": "../icons/broom128.png",
+            "sizes": "128x128",
+            "type": "image/png"  
+        },
+        {   
+            "src": "../icons/broom64.png",
+            "sizes": "64x64",
+            "type": "image/png"  
+        },
+        {   
+            "src": "../icons/broom32.png",
+            "sizes": "32x32",
+            "type": "image/png"  
+        },  
+        {   
+            "src": "../icons/broom24.png",
+            "sizes": "24x24",
+            "type": "image/png"  
+        },
+        {   
+            "src": "../icons/broom16.png",
+            "sizes": "16x16",
+            "type": "image/png"  
+        }
+    ]
+}
